@@ -1,2 +1,2 @@
 # dev.loc.u
-Offline Taxi Service...Utilizes GSM triangulation to locate taxis 
+Offline Taxi Service...Utilizes GPRS triangulation to locate taxis 
